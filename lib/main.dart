@@ -3,5 +3,5 @@ import 'package:flutter_application_1/splash.dart';
 import 'Weather Report.dart';
 import 'Weather Expand.dart';
 import 'Details.dart';
-void main() => runApp(Details());
+void main() => runApp(splash());
 
