@@ -240,7 +240,7 @@ class _DetailsState extends State<Details> {
                           Text(
                             '19°',
                             style: TextStyle(
-                                color: Color(0XFF130E51), fontSize: 15),
+                                color: Color(0XFF130E51), fontSize: 16),
                           ),
                         ],
                       ),
